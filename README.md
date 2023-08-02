@@ -11,6 +11,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 
 Instructions
+
 This assignment is broken down into the following tasks:
 
 Prepare the data.
